@@ -1,0 +1,9 @@
+#en-tête {
+
+	background-image: url("/img/doom-eternal.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+	height: 65vh;
+}
